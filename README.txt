@@ -1,4 +1,6 @@
 test repo
 
 
-- k webtoon 
+- kakao webtoon 
+- patent
+- serverless 
